@@ -57,7 +57,7 @@ const socials = [
   {
     icon: <FaGithub size={18} />,
     label: "GitHub",
-    href: "https://github.com/irsath",
+    href: "https://github.com/Mohideen1022",
     color: "hover:bg-[#24292e] hover:border-[#24292e] hover:text-white",
     colorLight: "hover:bg-[#24292e] hover:border-[#24292e] hover:text-white",
   },
@@ -78,7 +78,7 @@ const socials = [
   {
     icon: <FaXTwitter size={18} />,
     label: "Twitter / X",
-    href: "https://twitter.com/irsath",
+    href: "",
     color: "hover:bg-black hover:border-black hover:text-white",
     colorLight: "hover:bg-black hover:border-black hover:text-white",
   },
